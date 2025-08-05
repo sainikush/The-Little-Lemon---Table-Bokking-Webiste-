@@ -1,6 +1,10 @@
-# React + Vite
+# The Little Lemon - Table Booking Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a web application for The Little Lemon restaurant, built with React and Vite.
+
+## Getting Started
+
+This project provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
